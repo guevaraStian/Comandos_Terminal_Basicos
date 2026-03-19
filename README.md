@@ -8,7 +8,7 @@
 - Sistemas operativos
 
 
-Luego de descargar git, Los comandos para acceder al repositorio son los siguientes.
+Luego de descargar git, procedemos a descargar el archivo con los programas, usando el boton verde y luego dowload, o tambien , Los comandos para acceder al repositorio son los siguientes.
 
 ```Terminal de comandos
 git --version
