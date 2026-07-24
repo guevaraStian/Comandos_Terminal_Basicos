@@ -8,6 +8,23 @@ Este repositorio tiene 4 carpetas, donde cada carpeta tiene una area en la cual 
 - Redes routers y switches
 - Sistemas operativos
 
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+
+WINDOWS
+```Windows
+winget install --id Git.Git -e --source winget
+```
+
+LINUX, Fedora, Arch Linux, CentOS
+```Linux Fedora, Arch Linux, CentOS
+sudo dnf install git -y
+sudo pacman -S git
+sudo yum install git -y
+```
+MAC
+```MAC
+brew install git
+```
 
 Luego de descargar git, procedemos a descargar el archivo con los programas, usando el boton verde y luego dowload, o tambien , Los comandos para acceder al repositorio son los siguientes.
 
